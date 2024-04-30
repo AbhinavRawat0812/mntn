@@ -1,0 +1,74 @@
+
+/* Landing Page CSS */
+
+.landingPage_container{
+    background-color: #0B1D26;
+}
+
+.bg_container{
+    background-image: linear-gradient( rgba(0, 0, 0, 0.3),#0B1D26),url("./images/background_img.png");
+    height: 100vh;
+    background-size:cover;
+    background-repeat: no-repeat;
+
+}
+
+.socialHandle{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.socialHandle>h6{
+    transform: rotate(90deg);
+}
+
+.socialHandle>a{
+    margin-left: 42%;
+}
+
+.main_heading{
+    text-align: Left;
+    padding-left: 23%;
+    font-family: 'Gillroy-Bold';
+}
+
+.slider_text{
+    /* background-color: white; */
+    width: 100%;
+    /* text-align: right; */
+}
+
+.slider_text>hr{
+    background-color: white;
+    opacity: 0.3;
+    border-width: 4px;
+    transform: rotate(90deg);
+    position: relative;
+    top: -45%;
+    width: 180px;
+}
+
+#current_page{
+    position: relative;
+    top: -73.5%;
+    left: 11%;
+    width: 50px;
+    opacity: 1;
+
+}
+
+.content_container{
+    height: 230vh;
+    position: relative;
+    top: 0vh;
+    background-color: #0B1D26;
+    box-shadow: -8px -40px 55px #0B1D26;
+}
+
+.footer{
+    height: 30vh;
+    color: white;
+}
+
+
+

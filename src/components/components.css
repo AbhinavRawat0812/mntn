@@ -1,0 +1,117 @@
+
+/* NAVBAR CSS*/
+
+.mntn_logo_head{
+    font-family: 'Gillroy-Bold';
+    font-weight: bold;
+    font-size: 26;
+}
+
+#navbarText{
+    margin-left: 36%;
+    color: white;
+}
+
+.navbar-text{
+    width: 15%;
+    text-align: right;
+}
+
+/* LANDING PAGE INFO DISPLAY BOX CSS*/
+.info_display_box1{
+    width: 20%;
+}
+
+#info_display_serial_no{
+    font-family: 'Gillroy-Bold';
+    font-weight: 700;
+    font-size: 140px;
+    opacity: 0.1;
+    color: white;
+}
+
+.info_display_box2{
+    width: 40%;
+    font-size: 10px;
+    position: relative;
+    top: 90px;
+    left: -10%;
+}
+
+.info_display_box2>span{
+    color: #FBD784;
+    font-size: 10px;
+    font-family: 'Gillroy-Bold';
+    letter-spacing: 1px;
+}
+
+.info_display_box2>p{
+    color: white;
+}
+
+.info_display_box2>h1{
+    color: white;
+}
+
+.info_display_box3{
+    width: 40%;
+    height: 410px;
+    margin-right: 8%;
+}
+
+
+
+/* FOOTER CSS */
+.f_c1>p{
+    font-size: 10px;
+    margin-top: 2%;
+}
+
+#copyright{
+    color: grey;
+    font-size: 14px;
+    margin-top: 10%;
+}
+
+.f_c2{
+    text-align: left;
+}
+
+.f_c2>h6{
+    color: #FBD784;
+    font-family: 'Gillroy-Bold';
+}
+
+.f_c2>ul{
+    list-style-type: none;
+    text-align: left;
+    padding: 0;
+}
+
+.f_c2>ul>li>a{
+    color: inherit;  
+    padding: 0;
+    margin: 0;
+    font-size: 10px;
+}
+
+.f_c3{
+    text-align: left;
+}
+
+.f_c3>h6{
+    color: #FBD784;
+    font-family: 'Gillroy-Bold';
+}
+
+.f_c3>ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+.f_c3>ul>li>a{
+    color: inherit;
+    padding: 0;
+    margin: 0;
+    font-size: 10px;
+}
